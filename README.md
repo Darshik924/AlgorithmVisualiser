@@ -1,5 +1,5 @@
 # Project-Algorithm-Visualiser
-Project was assigned to us for winter 2025 by our seniors in CSESA..
+Project was assigned to us for winter 2025 in CSESA..
 
 --> This project features an Algorithm Visualiser (mainly sorting algorithms) which people may have difficult to understand at first time.
 
